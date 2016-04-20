@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="username">账号</string>
+    <string name="password">密码</string>
+    <string name="loginLabel">登陆demo</string>
+    <string name="register">注册</string>
+    <string name="login">登陆</string>
+</resources>
